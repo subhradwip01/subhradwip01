@@ -7,7 +7,7 @@
 
  👯 I’m looking to collaborate on **different web dev and cloud projects**
 
-👨‍💻 All of my projects are available at [Portfolio](https://csi-vit-ap.github.io/20BCE7045-Subhradwip_Kulavi/)
+👨‍💻 Visit my personal website [Subhradwip Kulavi](https://csi-vit-ap.github.io/20BCE7045-Subhradwip_Kulavi/)
 
 💬 Ask me about **MERN stack**
 
