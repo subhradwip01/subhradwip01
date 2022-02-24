@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=subhradwip01&label=Profile%20views&color=0e75b6&style=flat" alt="subhradwip01" /> </p>
 <div align="center">
-🌱 I’m currently learning **MERN stack, cloud**
+🌱 - 🌱 I’m currently learning **Blockchain**
 
  👯 I’m looking to collaborate on **different web dev and cloud projects**
 
